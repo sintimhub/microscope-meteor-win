@@ -40,6 +40,7 @@ minifiers@1.1.4-win.0
 minimongo@1.0.7-rc.0
 mobile-status-bar@1.0.3-rc.0
 mongo@1.1.0-rc.0
+mongo-livedata@1.0.8-rc.0
 npm-bcrypt@0.7.8_2
 observe-sequence@1.0.5-win.0
 ordered-dict@1.0.3-rc.0
@@ -53,6 +54,7 @@ sacha:spin@2.0.4
 service-configuration@1.0.4-rc.0
 session@1.1.0-rc.0
 sha@1.0.3-rc.0
+sintim:errors@0.0.1
 spacebars@1.0.6-rc.0
 spacebars-compiler@1.0.5-rc.0
 srp@1.0.3-rc.0
