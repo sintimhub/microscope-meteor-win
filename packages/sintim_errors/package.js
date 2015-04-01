@@ -19,7 +19,7 @@ Package.onUse(function(api) {
 });
 
 Package.onTest(function(api) {
-  api.use('tinytest');
-  api.use('sintim:errors');
-  api.addFiles('sintim_errors-tests.js');
+  api.use('sintim:errors', 'client');
+  api.use(['tinytest', 'test-helpers'], 'client');
+  api.addFiles('sintim_errors-tests.js', 'client');
 });
